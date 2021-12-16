@@ -1,0 +1,20 @@
+{
+"name": "Ticket Event1",
+"description": "Ticket XXXX for Event YYYY",
+"image": "https://openmoji.org/data/color/svg/1F528.svg",
+"attributes": [
+{
+"display_type": "date",
+"trait_type": "event_date",
+"value": 1546360800
+},
+{
+"trait_type": "Ticket Price",
+"value": "10.22"
+},
+{
+"trait_type": "Ticket Price Currency",
+"value": "USD"
+}
+]
+}
