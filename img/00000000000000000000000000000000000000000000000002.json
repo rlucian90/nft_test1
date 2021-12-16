@@ -1,0 +1,20 @@
+{
+  "name": "Ticket Event1",
+  "description": "Ticket XXXX for Event YYYY",
+  "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "event_date",
+      "value": 1546360800
+    },
+    {
+      "trait_type": "Ticket Price",
+      "value": "10.22"
+    },
+    {
+      "trait_type": "Ticket Price Currency",
+      "value": "USD"
+    }
+  ]
+}
